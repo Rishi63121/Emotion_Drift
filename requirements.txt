@@ -1,7 +1,7 @@
 streamlit
 opencv-python-headless
 deepface
-matplotlib
+tensorflow
 numpy
 pandas
-tensorflow
+matplotlib
